@@ -1,3 +1,5 @@
+Setting up TextBelt, potentially with minor modifications, to work with openmeal.org.
+
 ### TextBelt Open Source
 
 TextBelt Open Source is a REST API that sends outgoing SMS.  It uses a free mechanism for sending texts, different from the more reliable paid version available at https://textbelt.com.
